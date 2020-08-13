@@ -1,2 +1,2 @@
 # Treino-de-Python
-Projetos utilizando a linguagem de programação Python
+Projetos Diversos para quem gosta de Python
